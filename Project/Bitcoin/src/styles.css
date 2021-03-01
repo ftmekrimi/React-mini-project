@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  margin-top: 1.5rem;
+  font-family: roboto, sans-serif;
+  text-align: center;
+}
+p {
+  font-size: 1rem;
+  margin: 0.5rem;
+}
+
+i {
+  font-size: 0.8rem;
+}
+
+.btn-bold {
+  color: #fff;
+  font-weight: bold;
+  background-color: rgb(18, 24, 18);
+  border: 1px solid #888;
+}
+
+button {
+  padding: 0.3rem 0.8rem;
+  margin: 0.1rem;
+  margin-bottom: 0.3rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+}
